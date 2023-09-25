@@ -56,9 +56,9 @@ Each week...
 
 ## Grading Scheme
 
-Group Project Assignments: 40%
-Bi-Weekly Quizzes: 20%
-Final Exam: 40%
+Group Project Assignments: 40% </br>
+Bi-Weekly Quizzes: 20% </br>
+Final Exam: 40% </br>
 
 ## Course Schedule
 
